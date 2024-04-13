@@ -1,6 +1,6 @@
 
 -Overview About the projects
--Title:-ASTRIX_PROJECT
+-Title:-ASTRIX
 -TechStack:- React.js,tailwind
 -Steps to run/build project:- 
 1.install npm 
